@@ -15,7 +15,7 @@ This is a django boiler plate code with the following configuration:
 11] The Pillow Library is also added to requirements. 
 I assume you guys are familliar with virtualenviornments,
 I like to have my env in project folder and have a src folder as BASE_DIR for django project
-I am not pushing my enviornment to git so just make one and you will be good to go :)
+I am pushing my enviornment to git so just use it or make one and you will be good to go :)
 however, this is personal and feel free to customize it.
 
 #settings.json for vscode
